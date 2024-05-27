@@ -15,6 +15,8 @@ Download the required NLP models from Hugging Face:
 
 Follow the instructions on the respective pages to download and place the models in the appropriate directory.
 
+This project is developed using Python version 3.8.16
+
 ## ⚠️ Warning: Dataset Not Provided
 
 Please note that the dataset required to run the code is not provided with this repository due to GDPR regulations. You will need to replace the placeholder with your own dataset before running the code.
