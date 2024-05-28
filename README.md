@@ -19,4 +19,4 @@ This project is developed using Python version 3.8.16
 
 ## ⚠️ Warning: Dataset Not Provided
 
-Please note that the dataset required to run the code is not provided with this repository due to GDPR regulations. You will need to replace the placeholder with your own dataset before running the code.
+Please note that the dataset for which this code was written cannot be made publicly available without authorization by the French data protection authority Commission Nationale de l'Informatique et des Libertés (CNIL). You will need to replace the placeholder with your own dataset before running the code.
